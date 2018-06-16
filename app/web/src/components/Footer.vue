@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Leticia Goncalves bootcamp
+        Leticia Goncalves bootcamp :)
       </div>
       <div class="col-lg-6">
       </div>
